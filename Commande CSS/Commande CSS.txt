@@ -1,0 +1,10 @@
+Commande maitre:
+ html:5 [ Créé un code source du fichier CSS standart ]
+
+Inserer un element:
+ [body]
+     - width: 600px; — cette déclaration impose une largeur de 600 pixels pour le corps de la page.
+     - margin: 0 auto; Ici on a deux valeurs pour la propriété. Lorsqu'on utilise deux valeurs sur une propriété comme margin ou padding, la première valeur est utilisée pour le haut et le bas de l'élément (dans ce cas : 0) et la seconde valeur est utilisée pour les côtés gauche et droit (la valeur auto qu'on utilise ici est une valeur spéciale qui divise l'espace horizontal disponible en parts égales 
+entre la gauche et la droite.
+     - background-color: #FF9500; — comme on l'a vu auparavant, cela permet de définir la couleur utilisée en arrière-plan. Ce code couleur correspond à un rouge orangé qui sera utilisé pour le corps de la page, cela permettra d'avoir un contraste avec le bleu foncé utilisé pour l'élément html. N'hésitez pas à modifier cette valeur pour voir ce que ça donne, vous pouvez utiliser white ou une autre valeur si vous préférez.
+     - 
